@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Daniil
-- 👀 I am interested in finding a job and improving the quality of my knowledge
-- 🌱 I’m currently learning Swift, Python
-- 📫 How to reach me: telegram-@DoubleBouble
-
+<h1 align="center">Hi there,Daniil</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, iOS developer from Russia 🇷🇺</h3>
